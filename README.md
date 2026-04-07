@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">Backend / Full-Stack Engineer</h3>
 
-<p align="center">
-  🚀 Building practical, scalable software • ☁️ Cloud • 🤖 AI
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -37,15 +34,6 @@ I’m especially interested in:
 * **Cloud:** AWS
 * **Databases:** MongoDB, SQL
 * **Tools:** Docker, Git
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahrajabazdeh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahrajabazdeh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
